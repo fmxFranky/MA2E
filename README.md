@@ -17,18 +17,28 @@ MA<sup>2</sup> is a novel approach to addressing partial observability in multi-
 The code is based on pymarl2. 
 For detailed information, refere to the installation instructions of [pymarl2](https://github.com/hijkzzz/pymarl2) and [SMAC](https://github.com/oxwhirl/smac).
 
-1️⃣ Cloning MA<sup>2</sup>E : `git clone https://github.com/cheesebro329/MA2E.git`
+1️⃣ Cloning MA<sup>2</sup>E 
 
-2️⃣ Donwload and setup StarCraftII : `bash install_sc2.sh`
+`git clone https://github.com/cheesebro329/MA2E.git`
 
-3️⃣ Install required packages : `pip install -r requirements.txt`
+2️⃣ Donwload and setup StarCraftII 
+
+`bash install_sc2.sh`
+
+3️⃣ Install required packages 
+
+`pip install -r requirements.txt`
 
 
 ## 🎮 Running Script
 
-🏃Run an experiment : `bash run.sh config_name env_config_name map_name_list (arg_list threads_num gpu_list experinments_num)`
+🏃Run an experiment 
 
-✔️ Example : `bash run.sh qmix sc2 3s_vs_5z use_MT=True 3 0 3`
+`bash run.sh config_name env_config_name map_name_list (arg_list threads_num gpu_list experinments_num)`
+
+✔️ Example 
+
+`bash run.sh qmix sc2 3s_vs_5z use_MT=True 3 0 3`
 
 * Run QMIX+MA2E in SMAC 3s_vs_5z scenario
   
