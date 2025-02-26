@@ -2,6 +2,12 @@
 <a href="[https://arxiv.org/abs/2405.19806](https://openreview.net/forum?id=klpdEThT8q&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions))"><img src="https://img.shields.io/badge/Paper-OpenReview-Green"></a>
 <a href=#bibtex><img src="https://img.shields.io/badge/Paper-BibTex-yellow"></a>
 
+<table  border="0">
+  <tr>
+    <td><img src="./assets/figure2.jpg" alt="" width="300"></td>
+    <td><img src="./assets/figure3.jpg" alt="" width="300"></td>
+  </tr>
+</table>
 
 
 ## Description 
