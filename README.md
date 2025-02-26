@@ -1,6 +1,6 @@
 # MA<sup>2</sup>E : Addressing Partial Observability in Multi-Agent Reinforcement Learning with Masked Auto-Encoder
 <a href="[https://arxiv.org/abs/2405.19806](https://openreview.net/forum?id=klpdEThT8q&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions))"><img src="https://img.shields.io/badge/Paper-OpenReview-Green"></a>
-<a href="[📌 Citation으로 이동](#-citation)
+<a href="#citation
 "><img src="https://img.shields.io/badge/Paper-BibTex-yellow"></a>
 
 <div style="display: flex; justify-content: center; gap: 20px;">
@@ -34,9 +34,8 @@ For detailed information, refere to the installation instructions of [pymarl2](h
   
 * `use_MT` means executing the model plugs in MA2E into the baseline algorithm. 
 
-
+<a name="citation"></a>
 ## 📌 Citation
-<a name="bibtex"></a>
 ```bibtext
 @inproceedings{
 kang2025mae,
