@@ -4,8 +4,8 @@
 "><img src="https://img.shields.io/badge/Paper-BibTex-yellow"></a>
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="./assets/figure2.jpg" alt="" width="450">
-  <img src="./assets/figure3.jpg" alt="" width="450">
+  <img src="./assets/figure2.jpg" alt="" width="300">
+  <img src="./assets/figure3.jpg" alt="" width="300">
 </div>
 
 ## 🎯 Description 
@@ -26,12 +26,12 @@ For detailed information, refere to the installation instructions of [pymarl2](h
 
 ## 🎮 Running Script
 
-🏃Run an experiment
-`bash run.sh config_name env_config_name map_name_list (arg_list threads_num gpu_list experinments_num)`
+🏃Run an experiment : `bash run.sh config_name env_config_name map_name_list (arg_list threads_num gpu_list experinments_num)`
 
-✔️ Example
-`bash run.sh qmix sc2 3s_vs_5z use_MT=True 3 0 3`
+✔️ Example : `bash run.sh qmix sc2 3s_vs_5z use_MT=True 3 0 3`
+
 * Run QMIX+MA2E in SMAC 3s_vs_5z scenario
+  
 * `use_MT` means executing the model plugs in MA2E into the baseline algorithm. 
 
 
