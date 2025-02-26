@@ -4,8 +4,8 @@
 "><img src="https://img.shields.io/badge/Paper-BibTex-yellow"></a>
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="./assets/figure2.jpg" alt="" width="500">
-  <img src="./assets/figure3.jpg" alt="" width="500">
+  <img src="./assets/figure2.jpg" alt="" width="450">
+  <img src="./assets/figure3.jpg" alt="" width="450">
 </div>
 
 ## 🎯 Description 
