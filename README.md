@@ -2,15 +2,10 @@
 <a href="[https://arxiv.org/abs/2405.19806](https://openreview.net/forum?id=klpdEThT8q&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions))"><img src="https://img.shields.io/badge/Paper-OpenReview-Green"></a>
 <a href=#bibtex><img src="https://img.shields.io/badge/Paper-BibTex-yellow"></a>
 
-<div style="display: flex; justify-content: center;">
-  <table style="border-collapse: collapse; border: none;">
-    <tr>
-      <td style="border:none;padding:10px;"><img src="./assets/figure2.jpg" alt="" width="500"></td>
-      <td style="border:none;padding:10px;"><img src="./assets/figure3.jpg" alt="" width="500"></td>
-  </tr>
-  </table>
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="./assets/figure2.jpg" alt="" width="500">
+  <img src="./assets/figure3.jpg" alt="" width="500">
 </div>
-
 
 ## Description 
 This is the official code repository for the paper ["MA<sup>2</sup>E : Addressing Partial Observability in Multi-Agent Reinforcement Learning with Masked Auto-Encoder"](https://openreview.net/forum?id=klpdEThT8q&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions)) accepted by ICLR 2025.
