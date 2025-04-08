@@ -24,7 +24,7 @@ if [ ! -d $MAP_DIR ]; then
         mkdir -p $MAP_DIR
 fi
 
-wget https://github.com/oxwhirl/smac/releases/download/v0.1-beta1/SMAC_Maps.zip
+wget https://github.com/oxwhirl/smacv2/releases/download/maps/SMAC_Maps.zip
 unzip SMAC_Maps.zip
 
 cp -r $smac_maps/* ./SMAC_Maps 
